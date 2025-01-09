@@ -26,11 +26,11 @@ This assignment will guide you in creating a clickable image link using HTML. Yo
          <title>Clickable Image Link</title>
      </head>
      <body>
-         <h1>My Hobby: Photography</h1>
-         <p>Click the image below to learn more about photography:</p>
-         <a href="https://www.photographyblog.com" target="_blank">
-             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Nikon_D5100.jpg/800px-Nikon_D5100.jpg" 
-                  alt="Nikon D5100 Camera" 
+         <h1>My Hobby: Gaming</h1>
+         <p>Click the image below to learn more about about games I play:</p>
+         <a href="https://www.mobilelegends.com" target="_blank">
+             <img src="https://cdn2.omg.rocks/i/15f36db9f43170/mobile-legends-cover.png?w=768" 
+                  alt="Mobile Legends" 
                   style="width:400px; height:auto; border:1px solid #000;">
          </a>
      </body>
